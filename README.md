@@ -13,7 +13,7 @@ I have the knowledge to design large-scale web applications architectures, Deplo
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href="https://www.w3schools.com/js/" target="_blank"> <img align="left" alt="JavaScript" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" /></a>
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true" /> </a>
-<a href="https://www.php.net/" target="_blank"> <img align="left" alt="PHP" width="26px" src="https://banner2.cleanpng.com/20180427/zaq/kisspng-web-development-php-programming-language-computer-5ae381e5d40ec8.1931377315248593658686.jpg" /> </a>
+<a href="https://www.php.net/" target="_blank"> <img align="left" alt="PHP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" /> </a>
 <a href="https://www.w3schools.com/laravel/" target="_blank"> <img align="left" alt="Laravel" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/laravel.svg" /> </a>
 <br />
 <br />
