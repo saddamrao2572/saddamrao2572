@@ -5,7 +5,6 @@ I am a full stack developer having more than 7 years of web development and desi
 I have the knowledge to design large-scale web applications architectures, Deployments, Github actions, Facebook Apis integration or Rest Full Apis Development, and all major payments gateways like Apple pay, Google Pay, Stripe, Paypal, Payfort. Jazz cash, easy paisa.
 <br>
 <br>
-[![Saddam Rao GitHub stats](https://github-readme-stats.vercel.app/api?username=saddamrao2572)](https://github.com/saddamrao2572/github-readme-stats)
 
 ### Languages and Tools:
 
@@ -31,4 +30,6 @@ I have the knowledge to design large-scale web applications architectures, Deplo
 
 [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width="26px">](https://github.com/saddamrao2572) &nbsp;[<img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt='linkedin' width="26px">](https://www.linkedin.com/in/saddam-hussain-08820061/) &nbsp; [<img align="left" src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19748.png" alt='facebook' width="26px">](https://www.facebook.com/rao.saddam.7) &nbsp;   [<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt='stackoverflow' width="26px">](https://stackoverflow.com/users/11999930) 
 <br/>
+<br>
+<br>
 [![Saddam Rao GitHub stats](https://github-readme-stats.vercel.app/api?username=saddamrao2572)](https://github.com/saddamrao2572/github-readme-stats)
