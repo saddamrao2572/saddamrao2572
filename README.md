@@ -6,6 +6,43 @@ I have the knowledge to design large-scale web applications architectures, Deplo
 <br>
 <br>
 
+
+# Laravel & Shopify Developer
+
+Hi, I’m a backend developer specializing in Laravel and Shopify API development.
+
+## Services
+
+- Custom Laravel Web Applications
+- Laravel REST API Development
+- SaaS Platform Development
+- Backend Architecture
+- Shopify Custom App Development
+- Shopify GraphQL API Integrations
+- Shopify Private and Public Apps
+
+## Technologies
+
+Laravel  
+PHP  
+MySQL  
+GraphQL  
+REST API  
+Shopify API  
+JavaScript  
+Node.js  
+
+## Hire Me
+
+Laravel Developer  
+https://www.fiverr.com/s/DBb1wwo
+
+Shopify App Developer  
+https://www.fiverr.com/s/kLYVo5g
+
+## Open Source Projects
+
+Coming soon: Laravel API examples and Shopify App integrations.
 ### Languages :
 
 
